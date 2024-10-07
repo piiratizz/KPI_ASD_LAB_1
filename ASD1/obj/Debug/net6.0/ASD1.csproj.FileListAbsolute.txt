@@ -1,0 +1,14 @@
+F:\Programing\С#\ASD1\ASD1\bin\Debug\net6.0\ASD1.exe
+F:\Programing\С#\ASD1\ASD1\bin\Debug\net6.0\ASD1.deps.json
+F:\Programing\С#\ASD1\ASD1\bin\Debug\net6.0\ASD1.runtimeconfig.json
+F:\Programing\С#\ASD1\ASD1\bin\Debug\net6.0\ASD1.dll
+F:\Programing\С#\ASD1\ASD1\bin\Debug\net6.0\ASD1.pdb
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.AssemblyInfoInputs.cache
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.AssemblyInfo.cs
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.csproj.CoreCompileInputs.cache
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.dll
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\refint\ASD1.dll
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.pdb
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ASD1.genruntimeconfig.cache
+F:\Programing\С#\ASD1\ASD1\obj\Debug\net6.0\ref\ASD1.dll
