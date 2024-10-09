@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programing\\С#\\ASD1\\ASD1\\ASD1.csproj": {}
+    "F:\\Programing\\С#\\KPI_ASD_LAB_1\\ASD1\\ASD1.csproj": {}
   },
   "projects": {
-    "F:\\Programing\\С#\\ASD1\\ASD1\\ASD1.csproj": {
+    "F:\\Programing\\С#\\KPI_ASD_LAB_1\\ASD1\\ASD1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programing\\С#\\ASD1\\ASD1\\ASD1.csproj",
+        "projectUniqueName": "F:\\Programing\\С#\\KPI_ASD_LAB_1\\ASD1\\ASD1.csproj",
         "projectName": "ASD1",
-        "projectPath": "F:\\Programing\\С#\\ASD1\\ASD1\\ASD1.csproj",
+        "projectPath": "F:\\Programing\\С#\\KPI_ASD_LAB_1\\ASD1\\ASD1.csproj",
         "packagesPath": "C:\\Users\\demarko\\.nuget\\packages\\",
-        "outputPath": "F:\\Programing\\С#\\ASD1\\ASD1\\obj\\",
+        "outputPath": "F:\\Programing\\С#\\KPI_ASD_LAB_1\\ASD1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demarko\\AppData\\Roaming\\NuGet\\NuGet.Config",

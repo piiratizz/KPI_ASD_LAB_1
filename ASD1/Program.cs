@@ -260,16 +260,13 @@ class Program
             {
                 chunk.Clear();
 
-                // Чтение чанка из файла
                 for (int i = 0; i < CHUNK_SIZE && !sr.EndOfStream; i++)
                 {
                     chunk.Add(sr.ReadLine());
                 }
 
-                // Сортировка чанка
                 chunk.Sort();
 
-                // Сохранение чанка на диск
                 string chunkFile = Path.Combine(tempDir, $"chunk_{chunkIndex}.txt");
                 File.WriteAllLines(chunkFile, chunk);
 
